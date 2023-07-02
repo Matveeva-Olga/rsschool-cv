@@ -43,3 +43,5 @@ basics: Javascript, bootstrap, php, mySQL
 
 2001-2006 economist,
 finance and credit VGASU
+
+english level A1
