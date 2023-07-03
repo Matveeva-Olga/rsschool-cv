@@ -39,7 +39,7 @@ basics: Javascript, bootstrap, php, mySQL
 2023 professional retraining "Graphic design from scratch to the first projects" TSU
 
 2022 professional retraining
-"Web developer" ITMO https://github.com/Matveeva-Olga/test-repo-hub.git
+"Web developer" ITMO (https://github.com/Matveeva-Olga/diplom.git)
 
 2001-2006 economist,
 finance and credit VGASU
