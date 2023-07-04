@@ -1,4 +1,4 @@
 # rsschool-cv
 first repository in rsschool
 
-https://Matveeva-Olga.github.io/rsschool-cv/
+[Ссылка на CV] (https://Matveeva-Olga.github.io/rsschool-cv/)
