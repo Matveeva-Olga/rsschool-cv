@@ -1,4 +1,28 @@
-body {
-    weight: 1920px;
-    height: 1080px;
+body,
+html {
+    height: 100%;
+    margin: 0%;
+    padding: 0;
+}
+header {
+    text-align: center;
+    background-color: #007ACC;
+}
+h1 {
+    color: white;
+    margin:0%;
+}
+aside {
+    margin-left: 20px;
+    height: 100%;
+    width: 40%;
+}
+img {
+    height: 400px;
+    width: 410px;
+    align-content: center;
+}
+section {
+    width: 60%;
+    text-align: right;
 }
